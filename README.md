@@ -41,11 +41,10 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+**Oscar Mier**
+- Github: [@voscarmv](https://github.com/voscarmv)
+- Twitter: [@voscarmv](https://twitter.com/voscarmv)
+- Linkedin: [Oscar Mier](https://www.linkedin.com/in/oscar-mier-072984196/) 
 
 👤 **Author2**
 
@@ -57,7 +56,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
